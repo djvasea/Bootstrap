@@ -1,3 +1,8 @@
 body{
-	background-image: url(images/poza2.jpg);
+	background: url(images/poza2.jpg) no-repeat;
+	background-size: cover;
+	
+}
+.btn:hover{
+	background: black;
 }
